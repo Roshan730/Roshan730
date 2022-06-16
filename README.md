@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roshan730
-- 🌱 🌱 Polishing my Skills in NodeJs, ExpressJs and MongoDb.
+- 🌱 Polishing my Skills in NodeJs, ExpressJs and MongoDb.
 - 💬 Hit me up, for discussions regarding HTML, CSS, JavaScript and ReactJs.
 - ⚡ Fun fact I love to create websites, using Vanilla CSS, rather than using frameworks or libraries!
 
